@@ -9,13 +9,19 @@ Built with **React, Tailwind CSS, Vite, Monaco Editor, and Google Gemini AI** to
 
 ## ✨ Features
 
-> ⚡ **AI Code Generation** – Generate UI components from natural language prompts
-> 🎨 **Multiple Framework Support** – HTML + CSS, Tailwind CSS, Bootstrap, and JavaScript
-> 💻 **Built-in Code Editor** – Powered by Monaco Editor with syntax highlighting
-> 👀 **Live Preview** – Instantly preview generated UI components
-> 📋 **Copy Code** – Copy generated code to clipboard with one click
-> 📥 **Download Code** – Export generated component as an HTML file
-> 🪄 **Modern UI** – Clean dark interface with smooth interactions
+⚡ **AI Code Generation** – Generate UI components from natural language prompts
+
+🎨 **Multiple Framework Support** – HTML + CSS, Tailwind CSS, Bootstrap, and JavaScript
+
+💻 **Built-in Code Editor** – Powered by Monaco Editor with syntax highlighting
+
+👀 **Live Preview** – Instantly preview generated UI components
+
+📋 **Copy Code** – Copy generated code to clipboard with one click
+
+📥 **Download Code** – Export generated component as an HTML file
+
+🪄 **Modern UI** – Clean dark interface with smooth interactions
 
 ---
 
@@ -116,10 +122,15 @@ http://localhost:5173
 ## 🧠 How It Works
 
 1️⃣ User enters a **UI component description**
+
 2️⃣ Selects the **framework** (Tailwind, Bootstrap, etc.)
+
 3️⃣ The prompt is sent to **Google Gemini AI**
+
 4️⃣ AI generates **clean HTML code**
+
 5️⃣ Code is displayed in **Monaco Editor**
+
 6️⃣ Users can **preview, copy, or download the code**
 
 ---
